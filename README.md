@@ -1,3 +1,3 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yohei222&count_private=true&show_icons=true" />
-</a>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=yohei222&&show_icons=true&theme=dark" alt="Yohei's Github Stats">
+</p>
