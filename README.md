@@ -7,8 +7,8 @@
     <img src="https://badgen.org/img/zenn/yohei222/articles?style=flat&logo=x&logoColor=white" height="20" />
 </a>
 
-- I'm a fullstack software engineer👨‍💻
-- I'm currently working at [Monicle](https://monicle.co.jp/).
+- I'm a fullstack software engineer👨‍💻 who loves to travel✈️
+- I've been working at [Monicle](https://monicle.co.jp/) since April 2023
 
 ## Main Languages/Frameworks
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,graphql,vitest,ruby,rails,mysql,postgres)](https://skillicons.dev)
