@@ -11,7 +11,7 @@
 - I've been working at [Monicle](https://monicle.co.jp/) since April 2023
 
 ### CV/Work Experience
-- 📝 Here is my [CV](https://github.com/yohei222/yohei-cv-work-history/blob/main/docs/en/README.md)
+- 📝 Here is my [CV](https://yohei222.github.io/yohei-cv-work-history/en/)
 
 ### Main Languages/Frameworks
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,graphql,vitest,ruby,rails,mysql,postgres)](https://skillicons.dev)
